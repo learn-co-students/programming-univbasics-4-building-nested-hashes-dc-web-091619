@@ -16,7 +16,7 @@ def monopoly_with_third_tier
   countries_and_capitals_of_the_world = {
     :railroads => {
       :pieces => 4, 
-      :rent_in_dollars => {
+      [:rent_in_dollars].key.count => {
       }
     }
   }
