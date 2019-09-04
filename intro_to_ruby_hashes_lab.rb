@@ -12,11 +12,11 @@ def base_hash
     }, 
     :africa => {
       "Ghana" => {
-        :capital => "Accra"
+        :capital => "Accra",
         :capital_climate => "Kőppen Aw"
       },
       "Nigeria" => {
-        :capital => "Abuja"
+        :capital => "Abuja",
         :capital_climate => "Kőppen Aw"
       }
     }
